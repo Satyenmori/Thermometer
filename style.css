@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(145, 175, 234);
+    text-align: center;
+    padding: 80px;
+    font-weight: 600;
+    color: white;
+    font-size: 35px;
+}
+.fa{
+    font-size: 250px;
+    padding: 100px;
+}
